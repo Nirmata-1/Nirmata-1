@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a lazy developer who loves building cool apps 
 
 Here are some of the technologies and tools I work with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
